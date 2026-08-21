@@ -1,0 +1,4 @@
+### GET request to get all patients
+GET http://127.0.0.1:4004/api/patients
+Authorization: Bearer {{token}}
+###
