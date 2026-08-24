@@ -84,3 +84,9 @@ Thumbs.db
 
 # AWS credentials
 .aws/
+
+# AWS CDK output
+cdk.out/
+
+# Compiled JARs
+*.jar
